@@ -1,4 +1,4 @@
-# Doggo Bot
+# Doggo Bot 🐶
 
 Experimenting with the Discord bots API.
 
