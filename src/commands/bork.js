@@ -12,7 +12,6 @@ const borkPhrases = [
 module.exports = async (msg) => {
   const vocalization = Math.floor(Math.random() * borkPhrases.length);
   const reply = borkPhrases[vocalization];
-  // await msg.channel.send('bork bork!! 🐶');
   await msg.channel.send(`${msg.author} ${reply}`);
   console.log('msg sent');
 };
