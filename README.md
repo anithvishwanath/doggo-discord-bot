@@ -3,5 +3,6 @@
 Experimenting with the Discord bot API.
 
 ## To-do
-* Fetch random dog photos
+- [x] Fetch random boop GIFs when the user types the !boop command
+- [ ] Fetch random dog photos
 
