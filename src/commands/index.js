@@ -1,12 +1,14 @@
 const bork = require('./bork'); 
 const boop = require('./boop');
+const photo = require('./photo');
 
 const guildID = process.env.GUILD_ID;
 const channelID = process.env.CHANNEL_ID;
 
 const commands = {
   'sup': bork,
-  'boop': boop
+  'boop': boop,
+  'pic': photo
 };
 
 module.exports = async (msg) => {
