@@ -12,7 +12,7 @@ A simple (pet) chatbot for your server.
 ## To-do
 - [x] Random message to the user
 - [x] Fetch random boop GIFs, when the user types in the !boop command [via the Tenor GIF API](https://tenor.com/gifapi)
-- [ ] Fetch random dog photos, using the [Dog CEO API](https://dog.ceo)
+- [x] Fetch random dog photos, using the [Dog CEO API](https://dog.ceo)
 - [ ] Display _specific_ results based on the user's input for all the commands (passing user's inputs as args)
 
 ## Resources
